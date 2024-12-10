@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e8d17f1-83f5-41e3-8d7a-65735a900f6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/poly/abstractclass/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/abstractclass/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/abstractclass/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/abstractclass/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/abstractclass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/CarMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/CarMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/NewCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/classandinterface/SoundFlyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/diamond/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/diamond/DiamondMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/diamond/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/diamond/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/DefaultPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/KakaoPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/NaverPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/PayChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/PayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex/pay/TossPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/interface1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/interface1/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/interface1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/interface1/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/interface1/InterfaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/pureabstractclass/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/pureabstractclass/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/pureabstractclass/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/pureabstractclass/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/pureabstractclass/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inflearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-start-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/basic/PolyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/basic/PolyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/practice/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/polypractice/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/practice/AnimalSoundMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/polypractice/AnimalSoundMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/practice/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/polypractice/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/practice/Caw.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/polypractice/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poly/practice/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/polypractice/Dog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2q1bhxzo2wOuBkoC69B3nY1RYZL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/akdnr/IdeaProjects/java-start-basic&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e8d17f1-83f5-41e3-8d7a-65735a900f6b" name="Changes" comment="" />
+      <created>1733833151520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733833151520</updated>
+      <workItem from="1733833152675" duration="19000" />
+      <workItem from="1733833177419" duration="7000" />
+      <workItem from="1733833360713" duration="4000" />
+      <workItem from="1733833392132" duration="216000" />
+      <workItem from="1733833615902" duration="37000" />
+      <workItem from="1733833659006" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
